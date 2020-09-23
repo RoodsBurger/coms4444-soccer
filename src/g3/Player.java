@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package g3;
 
 import java.util.*;
@@ -146,6 +145,4 @@ public class Player extends sim.Player {
           return losingGames;
      }
 }
-=======
-odkd
->>>>>>> removed print statements
+
